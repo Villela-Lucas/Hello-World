@@ -2,7 +2,7 @@
 ***
 ## *Repositório de treinamento*
 
-Será usado como portifólio, ou seja, todo o meu aprendizado e projetos-teste estarão documentados nesta pasta.
+Será usado como documentação de treinamento, ou seja, todo o meu aprendizado e projetos-teste estarão documentados nesta pasta.
 
 ### Pontos de estudo:
 
