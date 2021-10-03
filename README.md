@@ -8,6 +8,7 @@ Será usado como documentação de treinamento, ou seja, todo o meu aprendizado 
 
 - [x] Git/GitHub
 - [ ] Python
-- [ ] HTML, CSS e JavaScript
+- [x] HTML e CSS 
+- [ ] JavaScript
 - [ ] Node
 - [ ] SQL
