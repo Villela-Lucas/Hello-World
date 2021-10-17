@@ -9,6 +9,6 @@ Será usado como documentação de treinamento, ou seja, todo o meu aprendizado 
 - [x] Git/GitHub
 - [ ] Python
 - [x] HTML e CSS 
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] Node
 - [ ] SQL
